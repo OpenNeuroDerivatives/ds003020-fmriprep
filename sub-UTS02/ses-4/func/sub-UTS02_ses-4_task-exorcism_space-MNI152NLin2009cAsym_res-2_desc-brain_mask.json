@@ -1,0 +1,6 @@
+{
+  "RawSources": [
+    "sub-UTS02/ses-4/func/sub-UTS02_ses-4_task-exorcism_bold.nii.gz"
+  ],
+  "Resolution": "Template MNI152NLin2009cAsym (2.0x2.0x2.0 mm^3), curated by TemplateFlow 23.0.0"
+}
